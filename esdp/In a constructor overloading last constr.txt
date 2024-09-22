@@ -1,0 +1,9 @@
+In a constructor overloading last constructor is executed first
+
+Inner class-
+declare class inside another class called as inner class
+
+syntax- class classname:
+             class classname:
+
+* In a method overloading last method is executed 
